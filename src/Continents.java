@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+/*it tells the continent and country depending on the number for example if the number is 2 
+it tells South America and the famous city: Sao Paulou Brazil*/
+=======
+>>>>>>> branch 'master' of https://github.com/mjaysonnn/Continents-and-Cities.git
 public class Continents {
     public static void main(String[] args) {
     int continent=4;
